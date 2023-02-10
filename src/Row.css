@@ -18,6 +18,5 @@
 }
 .row_posterLarge {
   max-height: 250px;
-}
-.row {
+  min-width: 200px;
 }
